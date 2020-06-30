@@ -1,0 +1,32 @@
+td{
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    vertical-align: middle;
+    font-family:cursive;
+    font-size: 60px;
+}
+table{
+    border-collapse: collapse;
+    position: absolute;
+    left: 50%;
+    margin-left: -155px;
+    top: 100px;
+}
+.player_turn{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-right: -10px;
+
+}
+#resetButton{
+    position: absolute;
+    top:500px;
+    left: 50%;
+    margin-left: -50px;
+    width: 100px;
+    height: 35px;
+
+}
