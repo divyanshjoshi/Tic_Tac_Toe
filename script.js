@@ -13,7 +13,7 @@ var winCombos =[
     [2, 4, 6]
 ];
 
-var sock = io();
+
 
 var gamestatus;
 var cells = document.querySelectorAll('.cell');
